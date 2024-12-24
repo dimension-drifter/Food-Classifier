@@ -1,5 +1,3 @@
-# Food-Classifier
-An EfficientNetB2 feature extractor computer vision model to classify images.
 # 🍴 Food Classifier
 
 Welcome to the **Food Classifier**, an AI-powered web app that predicts the category of food from an image! This app is hosted on Hugging Face Spaces and leverages state-of-the-art machine learning models for fast and accurate predictions.
